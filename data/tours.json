@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "title": "3-Day Masai Mara Safari - Wildebeest Migration",
+    "location": "Masai Mara",
+    "price": 215,
+    "originalPrice": 254,
+    "rating": 4.7,
+    "reviews": 73,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-001.webp",
+    "images": [
+      "/tour-images/tour-001.webp",
+      "/tour-images/tour-010.webp",
+      "/tour-images/tour-017.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. Wildebeest Migration is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 2,
+    "title": "3-Day Big Five Masai Mara Safari",
+    "location": "Masai Mara",
+    "price": 229,
+    "originalPrice": 271,
+    "rating": 4.9,
+    "reviews": 110,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-002.webp",
+    "images": [
+      "/tour-images/tour-002.webp",
+      "/tour-images/tour-004.webp",
+      "/tour-images/tour-005.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Big Five Masai Mara Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 3,
+    "title": "3-Day Mara River Crossing Safari",
+    "location": "Masai Mara",
+    "price": 245,
+    "originalPrice": 290,
+    "rating": 4.6,
+    "reviews": 147,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-003.webp",
+    "images": [
+      "/tour-images/tour-003.webp",
+      "/tour-images/tour-005.webp",
+      "/tour-images/tour-006.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Mara River Crossing Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 4,
+    "title": "3-Day Masai Mara Photography Safari",
+    "location": "Masai Mara",
+    "price": 259,
+    "originalPrice": 306,
+    "rating": 4.8,
+    "reviews": 184,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-004.webp",
+    "images": [
+      "/tour-images/tour-004.webp",
+      "/tour-images/tour-006.webp",
+      "/tour-images/tour-007.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Masai Mara Photography Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 5,
+    "title": "3-Day Sunrise Game Drive Safari",
+    "location": "Masai Mara",
+    "price": 275,
+    "originalPrice": 325,
+    "rating": 4.5,
+    "reviews": 221,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-005.webp",
+    "images": [
+      "/tour-images/tour-005.webp",
+      "/tour-images/tour-007.webp",
+      "/tour-images/tour-008.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Sunrise Game Drive Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 6,
+    "title": "3-Day Family Safari in the Mara",
+    "location": "Masai Mara",
+    "price": 289,
+    "originalPrice": 342,
+    "rating": 4.7,
+    "reviews": 258,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-006.webp",
+    "images": [
+      "/tour-images/tour-006.webp",
+      "/tour-images/tour-008.webp",
+      "/tour-images/tour-009.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Family Safari in the Mara is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 7,
+    "title": "3-Day Conservancy Wildlife Safari",
+    "location": "Masai Mara",
+    "price": 305,
+    "originalPrice": 360,
+    "rating": 4.9,
+    "reviews": 295,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-007.webp",
+    "images": [
+      "/tour-images/tour-007.webp",
+      "/tour-images/tour-009.webp",
+      "/tour-images/tour-011.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Conservancy Wildlife Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 8,
+    "title": "3-Day Mara Plains Explorer",
+    "location": "Masai Mara",
+    "price": 325,
+    "originalPrice": 384,
+    "rating": 4.6,
+    "reviews": 332,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-008.webp",
+    "images": [
+      "/tour-images/tour-008.webp",
+      "/tour-images/tour-011.webp",
+      "/tour-images/tour-012.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Mara Plains Explorer is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 9,
+    "title": "3-Day Maasai Culture and Wildlife Safari",
+    "location": "Masai Mara",
+    "price": 340,
+    "originalPrice": 402,
+    "rating": 4.8,
+    "reviews": 369,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-009.webp",
+    "images": [
+      "/tour-images/tour-009.webp",
+      "/tour-images/tour-012.webp",
+      "/tour-images/tour-013.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Maasai Culture and Wildlife Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 10,
+    "title": "3-Day Great Migration Safari",
+    "location": "Masai Mara",
+    "price": 350,
+    "originalPrice": 413,
+    "rating": 4.5,
+    "reviews": 406,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-010.webp",
+    "images": [
+      "/tour-images/tour-010.webp",
+      "/tour-images/tour-017.webp",
+      "/tour-images/tour-020.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Great Migration Safari is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 11,
+    "title": "3-Day Private Masai Mara Escape",
+    "location": "Masai Mara",
+    "price": 268,
+    "originalPrice": 317,
+    "rating": 4.7,
+    "reviews": 443,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "6-8 People",
+    "image": "/tour-images/tour-011.webp",
+    "images": [
+      "/tour-images/tour-011.webp",
+      "/tour-images/tour-014.webp",
+      "/tour-images/tour-015.webp"
+    ],
+    "description": "Explore the Masai Mara on a three-day guided safari. 3-Day Private Masai Mara Escape is paired with game drives across open savannah and time to enjoy the reserve at an unhurried pace.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Look for the Big Five and plains wildlife",
+      "Expert local guide and scenic Mara viewpoints"
+    ],
+    "included": [
+      "Safari transport in a 4x4",
+      "Local guide",
+      "Bottled water",
+      "Accommodation and meals as described by the operator"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 12,
+    "title": "Masai Mara Full-Day Big Five Safari",
+    "location": "Masai Mara",
+    "price": 45,
+    "originalPrice": 54,
+    "rating": 4.9,
+    "reviews": 480,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-012.webp",
+    "images": [
+      "/tour-images/tour-012.webp",
+      "/tour-images/tour-015.webp",
+      "/tour-images/tour-016.webp"
+    ],
+    "description": "Spend a full day in the Masai Mara with a local guide. Masai Mara Full-Day Big Five Safari focuses on wildlife viewing, open plains and memorable stops along the route.",
+    "highlights": [
+      "Guided game drive",
+      "Wildlife viewing across the Mara",
+      "Photo stops at scenic viewpoints"
+    ],
+    "included": [
+      "Local driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed meeting point"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 13,
+    "title": "Masai Mara Sunrise Game Drive",
+    "location": "Masai Mara",
+    "price": 55,
+    "originalPrice": 65,
+    "rating": 4.6,
+    "reviews": 54,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-013.webp",
+    "images": [
+      "/tour-images/tour-013.webp",
+      "/tour-images/tour-016.webp",
+      "/tour-images/tour-018.webp"
+    ],
+    "description": "Spend a full day in the Masai Mara with a local guide. Masai Mara Sunrise Game Drive focuses on wildlife viewing, open plains and memorable stops along the route.",
+    "highlights": [
+      "Guided game drive",
+      "Wildlife viewing across the Mara",
+      "Photo stops at scenic viewpoints"
+    ],
+    "included": [
+      "Local driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed meeting point"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 14,
+    "title": "Masai Mara Conservancy Day Safari",
+    "location": "Masai Mara",
+    "price": 62,
+    "originalPrice": 74,
+    "rating": 4.8,
+    "reviews": 91,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-014.webp",
+    "images": [
+      "/tour-images/tour-014.webp",
+      "/tour-images/tour-018.webp",
+      "/tour-images/tour-019.webp"
+    ],
+    "description": "Spend a full day in the Masai Mara with a local guide. Masai Mara Conservancy Day Safari focuses on wildlife viewing, open plains and memorable stops along the route.",
+    "highlights": [
+      "Guided game drive",
+      "Wildlife viewing across the Mara",
+      "Photo stops at scenic viewpoints"
+    ],
+    "included": [
+      "Local driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed meeting point"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 15,
+    "title": "Mara River Wildlife Day Trip",
+    "location": "Masai Mara",
+    "price": 69,
+    "originalPrice": 82,
+    "rating": 4.5,
+    "reviews": 128,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-015.webp",
+    "images": [
+      "/tour-images/tour-015.webp",
+      "/tour-images/tour-019.webp",
+      "/tour-images/tour-021.webp"
+    ],
+    "description": "Spend a full day in the Masai Mara with a local guide. Mara River Wildlife Day Trip focuses on wildlife viewing, open plains and memorable stops along the route.",
+    "highlights": [
+      "Guided game drive",
+      "Wildlife viewing across the Mara",
+      "Photo stops at scenic viewpoints"
+    ],
+    "included": [
+      "Local driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed meeting point"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 16,
+    "title": "Masai Mara Scenic Plains Safari",
+    "location": "Masai Mara",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.7,
+    "reviews": 165,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-016.webp",
+    "images": [
+      "/tour-images/tour-016.webp",
+      "/tour-images/tour-021.webp",
+      "/tour-images/tour-022.webp"
+    ],
+    "description": "Spend a full day in the Masai Mara with a local guide. Masai Mara Scenic Plains Safari focuses on wildlife viewing, open plains and memorable stops along the route.",
+    "highlights": [
+      "Guided game drive",
+      "Wildlife viewing across the Mara",
+      "Photo stops at scenic viewpoints"
+    ],
+    "included": [
+      "Local driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed meeting point"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 17,
+    "title": "5-Day Great Migration and Big Five Safari",
+    "location": "Masai Mara",
+    "price": 480,
+    "originalPrice": 567,
+    "rating": 4.9,
+    "reviews": 202,
+    "duration": "5 Days 4 Nights",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-017.webp",
+    "images": [
+      "/tour-images/tour-017.webp",
+      "/tour-images/tour-010.webp",
+      "/tour-images/tour-020.webp"
+    ],
+    "description": "Take more time to explore the Masai Mara on a five-day safari. 5-Day Great Migration and Big Five Safari combines multiple game drives with room to follow changing wildlife activity.",
+    "highlights": [
+      "Multiple game drives across the reserve",
+      "Explore migration and Big Five habitats",
+      "Flexible time for photography and scenic stops"
+    ],
+    "included": [
+      "4x4 safari transport",
+      "Professional local guide",
+      "Accommodation and meals as arranged",
+      "Bottled water"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 18,
+    "title": "5-Day Masai Mara Plains Expedition",
+    "location": "Masai Mara",
+    "price": 535,
+    "originalPrice": 632,
+    "rating": 4.6,
+    "reviews": 239,
+    "duration": "5 Days 4 Nights",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-018.webp",
+    "images": [
+      "/tour-images/tour-018.webp",
+      "/tour-images/tour-024.webp",
+      "/tour-images/tour-025.webp"
+    ],
+    "description": "Take more time to explore the Masai Mara on a five-day safari. 5-Day Masai Mara Plains Expedition combines multiple game drives with room to follow changing wildlife activity.",
+    "highlights": [
+      "Multiple game drives across the reserve",
+      "Explore migration and Big Five habitats",
+      "Flexible time for photography and scenic stops"
+    ],
+    "included": [
+      "4x4 safari transport",
+      "Professional local guide",
+      "Accommodation and meals as arranged",
+      "Bottled water"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 19,
+    "title": "5-Day Mara Conservancy Safari",
+    "location": "Masai Mara",
+    "price": 590,
+    "originalPrice": 697,
+    "rating": 4.8,
+    "reviews": 276,
+    "duration": "5 Days 4 Nights",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-019.webp",
+    "images": [
+      "/tour-images/tour-019.webp",
+      "/tour-images/tour-025.webp",
+      "/tour-images/tour-026.webp"
+    ],
+    "description": "Take more time to explore the Masai Mara on a five-day safari. 5-Day Mara Conservancy Safari combines multiple game drives with room to follow changing wildlife activity.",
+    "highlights": [
+      "Multiple game drives across the reserve",
+      "Explore migration and Big Five habitats",
+      "Flexible time for photography and scenic stops"
+    ],
+    "included": [
+      "4x4 safari transport",
+      "Professional local guide",
+      "Accommodation and meals as arranged",
+      "Bottled water"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 20,
+    "title": "5-Day Private Migration Safari",
+    "location": "Masai Mara",
+    "price": 650,
+    "originalPrice": 767,
+    "rating": 4.5,
+    "reviews": 313,
+    "duration": "5 Days 4 Nights",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-020.webp",
+    "images": [
+      "/tour-images/tour-020.webp",
+      "/tour-images/tour-023.webp",
+      "/tour-images/tour-028.webp"
+    ],
+    "description": "Take more time to explore the Masai Mara on a five-day safari. 5-Day Private Migration Safari combines multiple game drives with room to follow changing wildlife activity.",
+    "highlights": [
+      "Multiple game drives across the reserve",
+      "Explore migration and Big Five habitats",
+      "Flexible time for photography and scenic stops"
+    ],
+    "included": [
+      "4x4 safari transport",
+      "Professional local guide",
+      "Accommodation and meals as arranged",
+      "Bottled water"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 21,
+    "title": "Luxury Masai Mara Tented Camp Safari",
+    "location": "Masai Mara",
+    "price": 620,
+    "originalPrice": 732,
+    "rating": 4.7,
+    "reviews": 350,
+    "duration": "4 Days 3 Nights",
+    "groupSize": "2-4 People",
+    "image": "/tour-images/tour-021.webp",
+    "images": [
+      "/tour-images/tour-021.webp",
+      "/tour-images/tour-027.webp",
+      "/tour-images/tour-029.webp"
+    ],
+    "description": "Experience the Mara with a more private, comfort-led itinerary. Luxury Masai Mara Tented Camp Safari balances guided wildlife drives with relaxed time at a premium tented camp.",
+    "highlights": [
+      "Private or small-group game drives",
+      "Comfort-focused tented camp stay",
+      "Golden-hour wildlife viewing"
+    ],
+    "included": [
+      "Safari vehicle and guide",
+      "Luxury camp accommodation",
+      "Meals as arranged",
+      "Park or conservancy access as listed"
+    ],
+    "category": "Luxury Safari"
+  },
+  {
+    "id": 22,
+    "title": "Luxury Private Mara Conservancy Safari",
+    "location": "Masai Mara",
+    "price": 710,
+    "originalPrice": 838,
+    "rating": 4.9,
+    "reviews": 387,
+    "duration": "4 Days 3 Nights",
+    "groupSize": "2-4 People",
+    "image": "/tour-images/tour-022.webp",
+    "images": [
+      "/tour-images/tour-022.webp",
+      "/tour-images/tour-029.webp",
+      "/tour-images/tour-030.webp"
+    ],
+    "description": "Experience the Mara with a more private, comfort-led itinerary. Luxury Private Mara Conservancy Safari balances guided wildlife drives with relaxed time at a premium tented camp.",
+    "highlights": [
+      "Private or small-group game drives",
+      "Comfort-focused tented camp stay",
+      "Golden-hour wildlife viewing"
+    ],
+    "included": [
+      "Safari vehicle and guide",
+      "Luxury camp accommodation",
+      "Meals as arranged",
+      "Park or conservancy access as listed"
+    ],
+    "category": "Luxury Safari"
+  },
+  {
+    "id": 23,
+    "title": "Luxury Great Migration Safari Retreat",
+    "location": "Masai Mara",
+    "price": 790,
+    "originalPrice": 933,
+    "rating": 4.6,
+    "reviews": 424,
+    "duration": "4 Days 3 Nights",
+    "groupSize": "2-4 People",
+    "image": "/tour-images/tour-023.webp",
+    "images": [
+      "/tour-images/tour-023.webp",
+      "/tour-images/gallery-migration-001.webp",
+      "/tour-images/tour-001.webp"
+    ],
+    "description": "Experience the Mara with a more private, comfort-led itinerary. Luxury Great Migration Safari Retreat balances guided wildlife drives with relaxed time at a premium tented camp.",
+    "highlights": [
+      "Private or small-group game drives",
+      "Comfort-focused tented camp stay",
+      "Golden-hour wildlife viewing"
+    ],
+    "included": [
+      "Safari vehicle and guide",
+      "Luxury camp accommodation",
+      "Meals as arranged",
+      "Park or conservancy access as listed"
+    ],
+    "category": "Luxury Safari"
+  },
+  {
+    "id": 24,
+    "title": "Budget Masai Mara Camping Safari - 2 Days",
+    "location": "Masai Mara",
+    "price": 120,
+    "originalPrice": 142,
+    "rating": 4.8,
+    "reviews": 461,
+    "duration": "2 Days 1 Night",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-024.webp",
+    "images": [
+      "/tour-images/tour-024.webp",
+      "/tour-images/gallery-mara-001.webp",
+      "/tour-images/tour-072.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. Budget Masai Mara Camping Safari - 2 Days combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 25,
+    "title": "Budget Mara Camping and Game Drives",
+    "location": "Masai Mara",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 4.5,
+    "reviews": 498,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-025.webp",
+    "images": [
+      "/tour-images/tour-025.webp",
+      "/tour-images/tour-072.webp",
+      "/tour-images/gallery-mara-002.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. Budget Mara Camping and Game Drives combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 26,
+    "title": "3-Day Budget Masai Mara Camping Safari",
+    "location": "Masai Mara",
+    "price": 150,
+    "originalPrice": 177,
+    "rating": 4.7,
+    "reviews": 72,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-026.webp",
+    "images": [
+      "/tour-images/tour-026.webp",
+      "/tour-images/gallery-mara-003.webp",
+      "/tour-images/gallery-mara-004.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. 3-Day Budget Masai Mara Camping Safari combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 27,
+    "title": "Budget Big Five Camping Adventure",
+    "location": "Masai Mara",
+    "price": 160,
+    "originalPrice": 189,
+    "rating": 4.9,
+    "reviews": 109,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-027.webp",
+    "images": [
+      "/tour-images/tour-027.webp",
+      "/tour-images/gallery-mara-005.webp",
+      "/tour-images/gallery-mara-006.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. Budget Big Five Camping Adventure combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 28,
+    "title": "Budget Mara Migration Camp Safari",
+    "location": "Masai Mara",
+    "price": 175,
+    "originalPrice": 207,
+    "rating": 4.6,
+    "reviews": 146,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-028.webp",
+    "images": [
+      "/tour-images/tour-028.webp",
+      "/tour-images/tour-023.webp",
+      "/tour-images/gallery-migration-002.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. Budget Mara Migration Camp Safari combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 29,
+    "title": "Affordable Masai Mara Group Safari",
+    "location": "Masai Mara",
+    "price": 180,
+    "originalPrice": 213,
+    "rating": 4.8,
+    "reviews": 183,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "8-12 People",
+    "image": "/tour-images/tour-029.webp",
+    "images": [
+      "/tour-images/tour-029.webp",
+      "/tour-images/tour-002.webp",
+      "/tour-images/tour-003.webp"
+    ],
+    "description": "Keep your Mara adventure practical with a shared group itinerary. Affordable Masai Mara Group Safari combines camp-style accommodation with guided time in the reserve.",
+    "highlights": [
+      "Shared game drives",
+      "Camp-style overnight stay",
+      "Local insight into Mara wildlife"
+    ],
+    "included": [
+      "Shared safari transport",
+      "Local guide",
+      "Camping accommodation",
+      "Meals as specified"
+    ],
+    "category": "Budget Safari"
+  },
+  {
+    "id": 30,
+    "title": "Masai Mara Sunrise Hot-Air Balloon Add-On",
+    "location": "Masai Mara",
+    "price": 450,
+    "originalPrice": 531,
+    "rating": 4.5,
+    "reviews": 220,
+    "duration": "1 Hour Flight",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-030.webp",
+    "images": [
+      "/tour-images/tour-030.webp",
+      "/tour-images/tour-003.webp",
+      "/tour-images/tour-004.webp"
+    ],
+    "description": "See the Masai Mara from above on a sunrise hot-air balloon experience, followed by a gentle return to the plains. This listing represents the balloon add-on price.",
+    "highlights": [
+      "Sunrise balloon flight",
+      "Aerial views over the Mara",
+      "Post-flight bush breakfast"
+    ],
+    "included": [
+      "Balloon flight",
+      "Pilot and ground crew",
+      "Bush breakfast",
+      "Transfers within the agreed area"
+    ],
+    "category": "Balloon Safari"
+  },
+  {
+    "id": 31,
+    "title": "Amboseli Day Trip - Kilimanjaro Viewpoints",
+    "location": "Amboseli",
+    "price": 55,
+    "originalPrice": 65,
+    "rating": 4.7,
+    "reviews": 257,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-031.webp",
+    "images": [
+      "/tour-images/tour-031.webp",
+      "/tour-images/tour-035.webp",
+      "/tour-images/tour-036.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Day Trip - Kilimanjaro Viewpoints features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 32,
+    "title": "Amboseli Elephant Herd Day Safari",
+    "location": "Amboseli",
+    "price": 59,
+    "originalPrice": 70,
+    "rating": 4.9,
+    "reviews": 294,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-032.webp",
+    "images": [
+      "/tour-images/tour-032.webp",
+      "/tour-images/tour-036.webp",
+      "/tour-images/tour-037.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Elephant Herd Day Safari features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 33,
+    "title": "Amboseli Sunrise Wildlife Drive",
+    "location": "Amboseli",
+    "price": 65,
+    "originalPrice": 77,
+    "rating": 4.6,
+    "reviews": 331,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-033.webp",
+    "images": [
+      "/tour-images/tour-033.webp",
+      "/tour-images/tour-037.webp",
+      "/tour-images/tour-038.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Sunrise Wildlife Drive features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 34,
+    "title": "Amboseli Big Five Day Tour",
+    "location": "Amboseli",
+    "price": 69,
+    "originalPrice": 82,
+    "rating": 4.8,
+    "reviews": 368,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-034.webp",
+    "images": [
+      "/tour-images/tour-034.webp",
+      "/tour-images/tour-038.webp",
+      "/tour-images/tour-039.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Big Five Day Tour features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 35,
+    "title": "Amboseli Scenic Plains Safari",
+    "location": "Amboseli",
+    "price": 72,
+    "originalPrice": 85,
+    "rating": 4.5,
+    "reviews": 405,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-035.webp",
+    "images": [
+      "/tour-images/tour-035.webp",
+      "/tour-images/tour-039.webp",
+      "/tour-images/tour-040.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Scenic Plains Safari features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 36,
+    "title": "Amboseli Family Wildlife Day",
+    "location": "Amboseli",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.7,
+    "reviews": 442,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-036.webp",
+    "images": [
+      "/tour-images/tour-036.webp",
+      "/tour-images/tour-040.webp",
+      "/tour-images/tour-041.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Family Wildlife Day features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 37,
+    "title": "Amboseli Wetlands and Wildlife Tour",
+    "location": "Amboseli",
+    "price": 79,
+    "originalPrice": 94,
+    "rating": 4.9,
+    "reviews": 479,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-037.webp",
+    "images": [
+      "/tour-images/tour-037.webp",
+      "/tour-images/tour-041.webp",
+      "/tour-images/tour-042.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Wetlands and Wildlife Tour features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 38,
+    "title": "Amboseli Private Day Safari",
+    "location": "Amboseli",
+    "price": 85,
+    "originalPrice": 101,
+    "rating": 4.6,
+    "reviews": 53,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-038.webp",
+    "images": [
+      "/tour-images/tour-038.webp",
+      "/tour-images/tour-042.webp",
+      "/tour-images/tour-043.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Private Day Safari features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 39,
+    "title": "Amboseli Photography Day Trip",
+    "location": "Amboseli",
+    "price": 89,
+    "originalPrice": 106,
+    "rating": 4.8,
+    "reviews": 90,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-039.webp",
+    "images": [
+      "/tour-images/tour-039.webp",
+      "/tour-images/tour-043.webp",
+      "/tour-images/tour-044.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Photography Day Trip features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 40,
+    "title": "Amboseli Kilimanjaro Safari Day",
+    "location": "Amboseli",
+    "price": 95,
+    "originalPrice": 113,
+    "rating": 4.5,
+    "reviews": 127,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-040.webp",
+    "images": [
+      "/tour-images/tour-040.webp",
+      "/tour-images/tour-044.webp",
+      "/tour-images/tour-045.webp"
+    ],
+    "description": "Explore Amboseli on a guided day trip. Amboseli Kilimanjaro Safari Day features wildlife viewing, wide-open wetlands and, when skies are clear, views toward Mount Kilimanjaro.",
+    "highlights": [
+      "Look for Amboseli elephant herds",
+      "Game drive across wetlands and plains",
+      "Kilimanjaro views when weather allows"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 41,
+    "title": "2-Day Amboseli Elephant Safari",
+    "location": "Amboseli",
+    "price": 180,
+    "originalPrice": 213,
+    "rating": 4.7,
+    "reviews": 164,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-041.webp",
+    "images": [
+      "/tour-images/tour-041.webp",
+      "/tour-images/tour-045.webp",
+      "/tour-images/tour-062.webp"
+    ],
+    "description": "Slow down and explore Amboseli over two days. 2-Day Amboseli Elephant Safari pairs wildlife drives with an overnight stay and expansive views toward Kilimanjaro.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Elephant and plains wildlife viewing",
+      "Overnight near the park"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 42,
+    "title": "2-Day Kilimanjaro View Safari",
+    "location": "Amboseli",
+    "price": 210,
+    "originalPrice": 248,
+    "rating": 4.9,
+    "reviews": 201,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-042.webp",
+    "images": [
+      "/tour-images/tour-042.webp",
+      "/tour-images/tour-062.webp",
+      "/tour-images/tour-063.webp"
+    ],
+    "description": "Slow down and explore Amboseli over two days. 2-Day Kilimanjaro View Safari pairs wildlife drives with an overnight stay and expansive views toward Kilimanjaro.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Elephant and plains wildlife viewing",
+      "Overnight near the park"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 43,
+    "title": "2-Day Amboseli Lodge Escape",
+    "location": "Amboseli",
+    "price": 235,
+    "originalPrice": 278,
+    "rating": 4.6,
+    "reviews": 238,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-043.webp",
+    "images": [
+      "/tour-images/tour-043.webp",
+      "/tour-images/tour-063.webp",
+      "/tour-images/tour-064.webp"
+    ],
+    "description": "Slow down and explore Amboseli over two days. 2-Day Amboseli Lodge Escape pairs wildlife drives with an overnight stay and expansive views toward Kilimanjaro.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Elephant and plains wildlife viewing",
+      "Overnight near the park"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 44,
+    "title": "2-Day Private Amboseli Safari",
+    "location": "Amboseli",
+    "price": 265,
+    "originalPrice": 313,
+    "rating": 4.8,
+    "reviews": 275,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-044.webp",
+    "images": [
+      "/tour-images/tour-044.webp",
+      "/tour-images/tour-064.webp",
+      "/tour-images/tour-065.webp"
+    ],
+    "description": "Slow down and explore Amboseli over two days. 2-Day Private Amboseli Safari pairs wildlife drives with an overnight stay and expansive views toward Kilimanjaro.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Elephant and plains wildlife viewing",
+      "Overnight near the park"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 45,
+    "title": "2-Day Amboseli Wildlife Explorer",
+    "location": "Amboseli",
+    "price": 290,
+    "originalPrice": 343,
+    "rating": 4.5,
+    "reviews": 312,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-045.webp",
+    "images": [
+      "/tour-images/tour-045.webp",
+      "/tour-images/tour-065.webp",
+      "/tour-images/tour-067.webp"
+    ],
+    "description": "Slow down and explore Amboseli over two days. 2-Day Amboseli Wildlife Explorer pairs wildlife drives with an overnight stay and expansive views toward Kilimanjaro.",
+    "highlights": [
+      "Morning and afternoon game drives",
+      "Elephant and plains wildlife viewing",
+      "Overnight near the park"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 46,
+    "title": "Diani Traditional Dhow Cruise",
+    "location": "Diani",
+    "price": 35,
+    "originalPrice": 42,
+    "rating": 4.7,
+    "reviews": 349,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-046.webp",
+    "images": [
+      "/tour-images/tour-046.webp",
+      "/tour-images/tour-060.webp",
+      "/tour-images/gallery-coast-001.webp"
+    ],
+    "description": "Sail along the Kenyan coast on the Diani Traditional Dhow Cruise. Enjoy ocean views, a local crew and a relaxed dhow experience from Diani.",
+    "highlights": [
+      "Traditional dhow sailing",
+      "Indian Ocean coastal views",
+      "Relaxed time on the water"
+    ],
+    "included": [
+      "Dhow cruise",
+      "Local crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 47,
+    "title": "Mombasa Old Town and Creek Dhow Sail",
+    "location": "Mombasa",
+    "price": 42,
+    "originalPrice": 50,
+    "rating": 4.9,
+    "reviews": 386,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-047.webp",
+    "images": [
+      "/tour-images/tour-047.webp",
+      "/tour-images/gallery-coast-002.webp",
+      "/tour-images/tour-046.webp"
+    ],
+    "description": "Sail along the Kenyan coast on the Mombasa Old Town and Creek Dhow Sail. Enjoy ocean views, a local crew and a relaxed dhow experience from Mombasa.",
+    "highlights": [
+      "Traditional dhow sailing",
+      "Indian Ocean coastal views",
+      "Relaxed time on the water"
+    ],
+    "included": [
+      "Dhow cruise",
+      "Local crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 48,
+    "title": "Wasini Island Sunset Dhow Experience",
+    "location": "Wasini",
+    "price": 49,
+    "originalPrice": 58,
+    "rating": 4.6,
+    "reviews": 423,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-048.webp",
+    "images": [
+      "/tour-images/tour-048.webp",
+      "/tour-images/tour-046.webp",
+      "/tour-images/tour-047.webp"
+    ],
+    "description": "Sail along the Kenyan coast on the Wasini Island Sunset Dhow Experience. Enjoy ocean views, a local crew and a relaxed dhow experience from Wasini.",
+    "highlights": [
+      "Traditional dhow sailing",
+      "Indian Ocean coastal views",
+      "Relaxed time on the water"
+    ],
+    "included": [
+      "Dhow cruise",
+      "Local crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 49,
+    "title": "Diani Coastline Sailing Trip",
+    "location": "Diani",
+    "price": 55,
+    "originalPrice": 65,
+    "rating": 4.8,
+    "reviews": 460,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-049.webp",
+    "images": [
+      "/tour-images/tour-049.webp",
+      "/tour-images/tour-047.webp",
+      "/tour-images/tour-048.webp"
+    ],
+    "description": "Sail along the Kenyan coast on the Diani Coastline Sailing Trip. Enjoy ocean views, a local crew and a relaxed dhow experience from Diani.",
+    "highlights": [
+      "Traditional dhow sailing",
+      "Indian Ocean coastal views",
+      "Relaxed time on the water"
+    ],
+    "included": [
+      "Dhow cruise",
+      "Local crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 50,
+    "title": "Mombasa Harbour Dhow Cruise",
+    "location": "Mombasa",
+    "price": 65,
+    "originalPrice": 77,
+    "rating": 4.5,
+    "reviews": 497,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-050.webp",
+    "images": [
+      "/tour-images/tour-050.webp",
+      "/tour-images/tour-048.webp",
+      "/tour-images/tour-049.webp"
+    ],
+    "description": "Sail along the Kenyan coast on the Mombasa Harbour Dhow Cruise. Enjoy ocean views, a local crew and a relaxed dhow experience from Mombasa.",
+    "highlights": [
+      "Traditional dhow sailing",
+      "Indian Ocean coastal views",
+      "Relaxed time on the water"
+    ],
+    "included": [
+      "Dhow cruise",
+      "Local crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 51,
+    "title": "Diani Reef Snorkeling Adventure",
+    "location": "Diani",
+    "price": 65,
+    "originalPrice": 77,
+    "rating": 4.7,
+    "reviews": 71,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-051.webp",
+    "images": [
+      "/tour-images/tour-051.webp",
+      "/tour-images/tour-049.webp",
+      "/tour-images/tour-050.webp"
+    ],
+    "description": "Discover the coast on the Diani Reef Snorkeling Adventure, with time to snorkel and enjoy marine scenery around Diani. Conditions and wildlife sightings vary by day.",
+    "highlights": [
+      "Guided reef or marine-area visit",
+      "Snorkeling time in clear coastal water",
+      "Coastline and island scenery"
+    ],
+    "included": [
+      "Boat transfers",
+      "Snorkeling equipment",
+      "Local guide or crew",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 52,
+    "title": "Wasini Marine Park Snorkeling Tour",
+    "location": "Wasini",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.9,
+    "reviews": 108,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-052.webp",
+    "images": [
+      "/tour-images/tour-052.webp",
+      "/tour-images/tour-050.webp",
+      "/tour-images/tour-051.webp"
+    ],
+    "description": "Discover the coast on the Wasini Marine Park Snorkeling Tour, with time to snorkel and enjoy marine scenery around Wasini. Conditions and wildlife sightings vary by day.",
+    "highlights": [
+      "Guided reef or marine-area visit",
+      "Snorkeling time in clear coastal water",
+      "Coastline and island scenery"
+    ],
+    "included": [
+      "Boat transfers",
+      "Snorkeling equipment",
+      "Local guide or crew",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 53,
+    "title": "Mombasa Coral Garden Snorkel Trip",
+    "location": "Mombasa",
+    "price": 85,
+    "originalPrice": 101,
+    "rating": 4.6,
+    "reviews": 145,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-053.webp",
+    "images": [
+      "/tour-images/tour-053.webp",
+      "/tour-images/tour-051.webp",
+      "/tour-images/tour-052.webp"
+    ],
+    "description": "Discover the coast on the Mombasa Coral Garden Snorkel Trip, with time to snorkel and enjoy marine scenery around Mombasa. Conditions and wildlife sightings vary by day.",
+    "highlights": [
+      "Guided reef or marine-area visit",
+      "Snorkeling time in clear coastal water",
+      "Coastline and island scenery"
+    ],
+    "included": [
+      "Boat transfers",
+      "Snorkeling equipment",
+      "Local guide or crew",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 54,
+    "title": "Diani Turtle Reef Snorkeling",
+    "location": "Diani",
+    "price": 95,
+    "originalPrice": 113,
+    "rating": 4.8,
+    "reviews": 182,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-054.webp",
+    "images": [
+      "/tour-images/tour-054.webp",
+      "/tour-images/tour-052.webp",
+      "/tour-images/tour-053.webp"
+    ],
+    "description": "Discover the coast on the Diani Turtle Reef Snorkeling, with time to snorkel and enjoy marine scenery around Diani. Conditions and wildlife sightings vary by day.",
+    "highlights": [
+      "Guided reef or marine-area visit",
+      "Snorkeling time in clear coastal water",
+      "Coastline and island scenery"
+    ],
+    "included": [
+      "Boat transfers",
+      "Snorkeling equipment",
+      "Local guide or crew",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 55,
+    "title": "Wasini Dolphin and Snorkel Cruise",
+    "location": "Wasini",
+    "price": 110,
+    "originalPrice": 130,
+    "rating": 4.5,
+    "reviews": 219,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-055.webp",
+    "images": [
+      "/tour-images/tour-055.webp",
+      "/tour-images/tour-053.webp",
+      "/tour-images/tour-054.webp"
+    ],
+    "description": "Discover the coast on the Wasini Dolphin and Snorkel Cruise, with time to snorkel and enjoy marine scenery around Wasini. Conditions and wildlife sightings vary by day.",
+    "highlights": [
+      "Guided reef or marine-area visit",
+      "Snorkeling time in clear coastal water",
+      "Coastline and island scenery"
+    ],
+    "included": [
+      "Boat transfers",
+      "Snorkeling equipment",
+      "Local guide or crew",
+      "Drinking water"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 56,
+    "title": "Diani Private Beach Picnic Escape",
+    "location": "Diani",
+    "price": 110,
+    "originalPrice": 130,
+    "rating": 4.7,
+    "reviews": 256,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-056.webp",
+    "images": [
+      "/tour-images/tour-056.webp",
+      "/tour-images/tour-054.webp",
+      "/tour-images/tour-055.webp"
+    ],
+    "description": "Enjoy a more relaxed shoreline day with the Diani Private Beach Picnic Escape. This coastal experience offers time to unwind and take in the Indian Ocean around Diani.",
+    "highlights": [
+      "Private or quieter coastal setting",
+      "Time to relax by the Indian Ocean",
+      "Flexible beachside itinerary"
+    ],
+    "included": [
+      "Local host or guide",
+      "Beach access as listed",
+      "Drinking water",
+      "Transfers as arranged"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 57,
+    "title": "Mombasa Private Beach Day",
+    "location": "Mombasa",
+    "price": 120,
+    "originalPrice": 142,
+    "rating": 4.9,
+    "reviews": 293,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-057.webp",
+    "images": [
+      "/tour-images/tour-057.webp",
+      "/tour-images/tour-055.webp",
+      "/tour-images/tour-056.webp"
+    ],
+    "description": "Enjoy a more relaxed shoreline day with the Mombasa Private Beach Day. This coastal experience offers time to unwind and take in the Indian Ocean around Mombasa.",
+    "highlights": [
+      "Private or quieter coastal setting",
+      "Time to relax by the Indian Ocean",
+      "Flexible beachside itinerary"
+    ],
+    "included": [
+      "Local host or guide",
+      "Beach access as listed",
+      "Drinking water",
+      "Transfers as arranged"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 58,
+    "title": "Wasini Private Sandbank Experience",
+    "location": "Wasini",
+    "price": 130,
+    "originalPrice": 154,
+    "rating": 4.6,
+    "reviews": 330,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-058.webp",
+    "images": [
+      "/tour-images/tour-058.webp",
+      "/tour-images/tour-056.webp",
+      "/tour-images/tour-057.webp"
+    ],
+    "description": "Enjoy a more relaxed shoreline day with the Wasini Private Sandbank Experience. This coastal experience offers time to unwind and take in the Indian Ocean around Wasini.",
+    "highlights": [
+      "Private or quieter coastal setting",
+      "Time to relax by the Indian Ocean",
+      "Flexible beachside itinerary"
+    ],
+    "included": [
+      "Local host or guide",
+      "Beach access as listed",
+      "Drinking water",
+      "Transfers as arranged"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 59,
+    "title": "Diani Private Oceanfront Day",
+    "location": "Diani",
+    "price": 140,
+    "originalPrice": 166,
+    "rating": 4.8,
+    "reviews": 367,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-059.webp",
+    "images": [
+      "/tour-images/tour-059.webp",
+      "/tour-images/tour-057.webp",
+      "/tour-images/tour-058.webp"
+    ],
+    "description": "Enjoy a more relaxed shoreline day with the Diani Private Oceanfront Day. This coastal experience offers time to unwind and take in the Indian Ocean around Diani.",
+    "highlights": [
+      "Private or quieter coastal setting",
+      "Time to relax by the Indian Ocean",
+      "Flexible beachside itinerary"
+    ],
+    "included": [
+      "Local host or guide",
+      "Beach access as listed",
+      "Drinking water",
+      "Transfers as arranged"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 60,
+    "title": "Mombasa Exclusive Beach Retreat",
+    "location": "Mombasa",
+    "price": 145,
+    "originalPrice": 172,
+    "rating": 4.5,
+    "reviews": 404,
+    "duration": "Full Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-060.webp",
+    "images": [
+      "/tour-images/tour-060.webp",
+      "/tour-images/tour-058.webp",
+      "/tour-images/tour-059.webp"
+    ],
+    "description": "Enjoy a more relaxed shoreline day with the Mombasa Exclusive Beach Retreat. This coastal experience offers time to unwind and take in the Indian Ocean around Mombasa.",
+    "highlights": [
+      "Private or quieter coastal setting",
+      "Time to relax by the Indian Ocean",
+      "Flexible beachside itinerary"
+    ],
+    "included": [
+      "Local host or guide",
+      "Beach access as listed",
+      "Drinking water",
+      "Transfers as arranged"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": 61,
+    "title": "Tsavo East Red Elephant Day Safari",
+    "location": "Tsavo",
+    "price": 70,
+    "originalPrice": 83,
+    "rating": 4.7,
+    "reviews": 441,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-061.webp",
+    "images": [
+      "/tour-images/tour-061.webp",
+      "/tour-images/tour-040.webp",
+      "/tour-images/tour-041.webp"
+    ],
+    "description": "Explore the expansive Tsavo landscape on a guided day safari. Tsavo East Red Elephant Day Safari includes wildlife viewing and scenic stops across Kenya’s iconic red-earth country.",
+    "highlights": [
+      "Guided wildlife drive",
+      "Look for elephants and plains wildlife",
+      "Scenic Tsavo viewpoints"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 62,
+    "title": "Tsavo East Wildlife Drive",
+    "location": "Tsavo",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.9,
+    "reviews": 478,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-062.webp",
+    "images": [
+      "/tour-images/tour-062.webp",
+      "/tour-images/tour-041.webp",
+      "/tour-images/tour-042.webp"
+    ],
+    "description": "Explore the expansive Tsavo landscape on a guided day safari. Tsavo East Wildlife Drive includes wildlife viewing and scenic stops across Kenya’s iconic red-earth country.",
+    "highlights": [
+      "Guided wildlife drive",
+      "Look for elephants and plains wildlife",
+      "Scenic Tsavo viewpoints"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 63,
+    "title": "Tsavo West Scenic Day Trip",
+    "location": "Tsavo",
+    "price": 80,
+    "originalPrice": 95,
+    "rating": 4.6,
+    "reviews": 52,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-063.webp",
+    "images": [
+      "/tour-images/tour-063.webp",
+      "/tour-images/tour-042.webp",
+      "/tour-images/tour-043.webp"
+    ],
+    "description": "Explore the expansive Tsavo landscape on a guided day safari. Tsavo West Scenic Day Trip includes wildlife viewing and scenic stops across Kenya’s iconic red-earth country.",
+    "highlights": [
+      "Guided wildlife drive",
+      "Look for elephants and plains wildlife",
+      "Scenic Tsavo viewpoints"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 64,
+    "title": "Tsavo Big Five Day Adventure",
+    "location": "Tsavo",
+    "price": 88,
+    "originalPrice": 104,
+    "rating": 4.8,
+    "reviews": 89,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-064.webp",
+    "images": [
+      "/tour-images/tour-064.webp",
+      "/tour-images/tour-043.webp",
+      "/tour-images/tour-044.webp"
+    ],
+    "description": "Explore the expansive Tsavo landscape on a guided day safari. Tsavo Big Five Day Adventure includes wildlife viewing and scenic stops across Kenya’s iconic red-earth country.",
+    "highlights": [
+      "Guided wildlife drive",
+      "Look for elephants and plains wildlife",
+      "Scenic Tsavo viewpoints"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 65,
+    "title": "Tsavo Waterhole Wildlife Safari",
+    "location": "Tsavo",
+    "price": 95,
+    "originalPrice": 113,
+    "rating": 4.5,
+    "reviews": 126,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-065.webp",
+    "images": [
+      "/tour-images/tour-065.webp",
+      "/tour-images/tour-044.webp",
+      "/tour-images/tour-045.webp"
+    ],
+    "description": "Explore the expansive Tsavo landscape on a guided day safari. Tsavo Waterhole Wildlife Safari includes wildlife viewing and scenic stops across Kenya’s iconic red-earth country.",
+    "highlights": [
+      "Guided wildlife drive",
+      "Look for elephants and plains wildlife",
+      "Scenic Tsavo viewpoints"
+    ],
+    "included": [
+      "Driver-guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 66,
+    "title": "2-Day Tsavo East Elephant Safari",
+    "location": "Tsavo",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 4.7,
+    "reviews": 163,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-066.webp",
+    "images": [
+      "/tour-images/tour-066.webp",
+      "/tour-images/tour-045.webp",
+      "/tour-images/tour-062.webp"
+    ],
+    "description": "Spend two days discovering Tsavo. 2-Day Tsavo East Elephant Safari combines game drives, distinctive landscapes and an overnight stay near the park.",
+    "highlights": [
+      "Game drives in Tsavo",
+      "Explore red-earth landscapes and waterholes",
+      "Overnight safari stay"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 67,
+    "title": "2-Day Tsavo West Springs Explorer",
+    "location": "Tsavo",
+    "price": 155,
+    "originalPrice": 183,
+    "rating": 4.9,
+    "reviews": 200,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-067.webp",
+    "images": [
+      "/tour-images/tour-067.webp",
+      "/tour-images/tour-062.webp",
+      "/tour-images/tour-063.webp"
+    ],
+    "description": "Spend two days discovering Tsavo. 2-Day Tsavo West Springs Explorer combines game drives, distinctive landscapes and an overnight stay near the park.",
+    "highlights": [
+      "Game drives in Tsavo",
+      "Explore red-earth landscapes and waterholes",
+      "Overnight safari stay"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 68,
+    "title": "2-Day Tsavo Wildlife and Waterhole Tour",
+    "location": "Tsavo",
+    "price": 175,
+    "originalPrice": 207,
+    "rating": 4.6,
+    "reviews": 237,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-068.webp",
+    "images": [
+      "/tour-images/tour-068.webp",
+      "/tour-images/tour-063.webp",
+      "/tour-images/tour-064.webp"
+    ],
+    "description": "Spend two days discovering Tsavo. 2-Day Tsavo Wildlife and Waterhole Tour combines game drives, distinctive landscapes and an overnight stay near the park.",
+    "highlights": [
+      "Game drives in Tsavo",
+      "Explore red-earth landscapes and waterholes",
+      "Overnight safari stay"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 69,
+    "title": "2-Day Tsavo Lodge Safari",
+    "location": "Tsavo",
+    "price": 195,
+    "originalPrice": 231,
+    "rating": 4.8,
+    "reviews": 274,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-069.webp",
+    "images": [
+      "/tour-images/tour-069.webp",
+      "/tour-images/tour-064.webp",
+      "/tour-images/tour-065.webp"
+    ],
+    "description": "Spend two days discovering Tsavo. 2-Day Tsavo Lodge Safari combines game drives, distinctive landscapes and an overnight stay near the park.",
+    "highlights": [
+      "Game drives in Tsavo",
+      "Explore red-earth landscapes and waterholes",
+      "Overnight safari stay"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 70,
+    "title": "2-Day Private Tsavo Safari",
+    "location": "Tsavo",
+    "price": 220,
+    "originalPrice": 260,
+    "rating": 4.5,
+    "reviews": 311,
+    "duration": "2 Days 1 Night",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-070.webp",
+    "images": [
+      "/tour-images/tour-070.webp",
+      "/tour-images/tour-065.webp",
+      "/tour-images/tour-067.webp"
+    ],
+    "description": "Spend two days discovering Tsavo. 2-Day Private Tsavo Safari combines game drives, distinctive landscapes and an overnight stay near the park.",
+    "highlights": [
+      "Game drives in Tsavo",
+      "Explore red-earth landscapes and waterholes",
+      "Overnight safari stay"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "One night accommodation",
+      "Meals as arranged"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 71,
+    "title": "Nairobi National Park Morning Game Drive",
+    "location": "Nairobi",
+    "price": 25,
+    "originalPrice": 30,
+    "rating": 4.7,
+    "reviews": 348,
+    "duration": "Half Day",
+    "groupSize": "2-6 People",
+    "image": "/tour-images/tour-071.webp",
+    "images": [
+      "/tour-images/tour-071.webp",
+      "/tour-images/tour-073.webp",
+      "/tour-images/tour-074.webp"
+    ],
+    "description": "Head out from the city for the Nairobi National Park Morning Game Drive. Search for wildlife on open grassland with Nairobi’s skyline on the horizon.",
+    "highlights": [
+      "Wildlife drive close to the city",
+      "Look for rhinos and plains animals",
+      "Skyline and savannah photo stops"
+    ],
+    "included": [
+      "Local guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup within the agreed area"
+    ],
+    "category": "City Safari"
+  },
+  {
+    "id": 72,
+    "title": "Nairobi Park Skyline Safari",
+    "location": "Nairobi",
+    "price": 30,
+    "originalPrice": 36,
+    "rating": 4.9,
+    "reviews": 385,
+    "duration": "Half Day",
+    "groupSize": "2-6 People",
+    "image": "/tour-images/tour-072.webp",
+    "images": [
+      "/tour-images/tour-072.webp",
+      "/tour-images/tour-075.webp",
+      "/tour-images/tour-076.webp"
+    ],
+    "description": "Head out from the city for the Nairobi Park Skyline Safari. Search for wildlife on open grassland with Nairobi’s skyline on the horizon.",
+    "highlights": [
+      "Wildlife drive close to the city",
+      "Look for rhinos and plains animals",
+      "Skyline and savannah photo stops"
+    ],
+    "included": [
+      "Local guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup within the agreed area"
+    ],
+    "category": "City Safari"
+  },
+  {
+    "id": 73,
+    "title": "Nairobi National Park Big Five Tour",
+    "location": "Nairobi",
+    "price": 35,
+    "originalPrice": 42,
+    "rating": 4.6,
+    "reviews": 422,
+    "duration": "Half Day",
+    "groupSize": "2-6 People",
+    "image": "/tour-images/tour-073.webp",
+    "images": [
+      "/tour-images/tour-073.webp",
+      "/tour-images/gallery-rhino-001.webp",
+      "/tour-images/gallery-rhino-002.webp"
+    ],
+    "description": "Head out from the city for the Nairobi National Park Big Five Tour. Search for wildlife on open grassland with Nairobi’s skyline on the horizon.",
+    "highlights": [
+      "Wildlife drive close to the city",
+      "Look for rhinos and plains animals",
+      "Skyline and savannah photo stops"
+    ],
+    "included": [
+      "Local guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup within the agreed area"
+    ],
+    "category": "City Safari"
+  },
+  {
+    "id": 74,
+    "title": "Nairobi Park Private Wildlife Drive",
+    "location": "Nairobi",
+    "price": 45,
+    "originalPrice": 54,
+    "rating": 4.8,
+    "reviews": 459,
+    "duration": "Half Day",
+    "groupSize": "2-6 People",
+    "image": "/tour-images/tour-074.webp",
+    "images": [
+      "/tour-images/tour-074.webp",
+      "/tour-images/gallery-rhino-003.webp",
+      "/tour-images/tour-071.webp"
+    ],
+    "description": "Head out from the city for the Nairobi Park Private Wildlife Drive. Search for wildlife on open grassland with Nairobi’s skyline on the horizon.",
+    "highlights": [
+      "Wildlife drive close to the city",
+      "Look for rhinos and plains animals",
+      "Skyline and savannah photo stops"
+    ],
+    "included": [
+      "Local guide",
+      "Safari vehicle",
+      "Bottled water",
+      "Pickup within the agreed area"
+    ],
+    "category": "City Safari"
+  },
+  {
+    "id": 75,
+    "title": "Nairobi Giraffe Centre Visit and Guide",
+    "location": "Nairobi",
+    "price": 45,
+    "originalPrice": 54,
+    "rating": 4.5,
+    "reviews": 496,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-075.webp",
+    "images": [
+      "/tour-images/tour-075.webp",
+      "/tour-images/tour-078.webp",
+      "/tour-images/tour-072.webp"
+    ],
+    "description": "Enjoy a guided conservation-focused visit with the Nairobi Giraffe Centre Visit and Guide. Learn about giraffe care and Nairobi’s local wildlife initiatives.",
+    "highlights": [
+      "Visit the Giraffe Centre",
+      "Learn about conservation work",
+      "Guided introduction to Nairobi wildlife"
+    ],
+    "included": [
+      "Local guide",
+      "Scheduled transfers as arranged",
+      "Entry coordination",
+      "Bottled water"
+    ],
+    "category": "City Experience"
+  },
+  {
+    "id": 76,
+    "title": "Giraffe Centre Conservation Tour",
+    "location": "Nairobi",
+    "price": 55,
+    "originalPrice": 65,
+    "rating": 4.7,
+    "reviews": 70,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-076.webp",
+    "images": [
+      "/tour-images/tour-076.webp",
+      "/tour-images/tour-072.webp",
+      "/tour-images/gallery-giraffe-001.webp"
+    ],
+    "description": "Enjoy a guided conservation-focused visit with the Giraffe Centre Conservation Tour. Learn about giraffe care and Nairobi’s local wildlife initiatives.",
+    "highlights": [
+      "Visit the Giraffe Centre",
+      "Learn about conservation work",
+      "Guided introduction to Nairobi wildlife"
+    ],
+    "included": [
+      "Local guide",
+      "Scheduled transfers as arranged",
+      "Entry coordination",
+      "Bottled water"
+    ],
+    "category": "City Experience"
+  },
+  {
+    "id": 77,
+    "title": "Nairobi Giraffe Centre Family Experience",
+    "location": "Nairobi",
+    "price": 65,
+    "originalPrice": 77,
+    "rating": 4.9,
+    "reviews": 107,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-077.webp",
+    "images": [
+      "/tour-images/tour-077.webp",
+      "/tour-images/gallery-giraffe-002.webp",
+      "/tour-images/tour-075.webp"
+    ],
+    "description": "Enjoy a guided conservation-focused visit with the Nairobi Giraffe Centre Family Experience. Learn about giraffe care and Nairobi’s local wildlife initiatives.",
+    "highlights": [
+      "Visit the Giraffe Centre",
+      "Learn about conservation work",
+      "Guided introduction to Nairobi wildlife"
+    ],
+    "included": [
+      "Local guide",
+      "Scheduled transfers as arranged",
+      "Entry coordination",
+      "Bottled water"
+    ],
+    "category": "City Experience"
+  },
+  {
+    "id": 78,
+    "title": "Giraffe Centre and Local Nature Walk",
+    "location": "Nairobi",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.6,
+    "reviews": 144,
+    "duration": "3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-078.webp",
+    "images": [
+      "/tour-images/tour-078.webp",
+      "/tour-images/tour-075.webp",
+      "/tour-images/tour-076.webp"
+    ],
+    "description": "Enjoy a guided conservation-focused visit with the Giraffe Centre and Local Nature Walk. Learn about giraffe care and Nairobi’s local wildlife initiatives.",
+    "highlights": [
+      "Visit the Giraffe Centre",
+      "Learn about conservation work",
+      "Guided introduction to Nairobi wildlife"
+    ],
+    "included": [
+      "Local guide",
+      "Scheduled transfers as arranged",
+      "Entry coordination",
+      "Bottled water"
+    ],
+    "category": "City Experience"
+  },
+  {
+    "id": 79,
+    "title": "Karura Forest Guided Nature Walk",
+    "location": "Nairobi",
+    "price": 25,
+    "originalPrice": 30,
+    "rating": 4.8,
+    "reviews": 181,
+    "duration": "2-3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-079.webp",
+    "images": [
+      "/tour-images/tour-079.webp",
+      "/tour-images/tour-092.webp",
+      "/tour-images/tour-080.webp"
+    ],
+    "description": "Find a green pause in the city with the Karura Forest Guided Nature Walk. Follow forest trails and enjoy a guided walk through Karura’s natural spaces.",
+    "highlights": [
+      "Guided forest walk",
+      "Visit scenic trails and falls",
+      "Birdlife and green-space viewing"
+    ],
+    "included": [
+      "Local nature guide",
+      "Route planning",
+      "Entry coordination",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 80,
+    "title": "Karura Forest Falls and Trails Walk",
+    "location": "Nairobi",
+    "price": 25,
+    "originalPrice": 30,
+    "rating": 4.5,
+    "reviews": 218,
+    "duration": "2-3 Hours",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-080.webp",
+    "images": [
+      "/tour-images/tour-080.webp",
+      "/tour-images/tour-079.webp",
+      "/tour-images/tour-093.webp"
+    ],
+    "description": "Find a green pause in the city with the Karura Forest Falls and Trails Walk. Follow forest trails and enjoy a guided walk through Karura’s natural spaces.",
+    "highlights": [
+      "Guided forest walk",
+      "Visit scenic trails and falls",
+      "Birdlife and green-space viewing"
+    ],
+    "included": [
+      "Local nature guide",
+      "Route planning",
+      "Entry coordination",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 81,
+    "title": "Lake Naivasha Boat Safari",
+    "location": "Naivasha",
+    "price": 40,
+    "originalPrice": 48,
+    "rating": 4.7,
+    "reviews": 255,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-081.webp",
+    "images": [
+      "/tour-images/tour-081.webp",
+      "/tour-images/tour-082.webp",
+      "/tour-images/tour-083.webp"
+    ],
+    "description": "Enjoy the water and wildlife around Lake Naivasha with the Lake Naivasha Boat Safari. A local guide helps you spot birdlife and take in the lakeside scenery.",
+    "highlights": [
+      "Boat ride on Lake Naivasha",
+      "Look for hippos and waterbirds",
+      "Lakeside scenery and photo stops"
+    ],
+    "included": [
+      "Boat transfer",
+      "Local guide or boat crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 82,
+    "title": "Naivasha Boat Ride and Birdwatching",
+    "location": "Naivasha",
+    "price": 50,
+    "originalPrice": 59,
+    "rating": 4.9,
+    "reviews": 292,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-082.webp",
+    "images": [
+      "/tour-images/tour-082.webp",
+      "/tour-images/tour-083.webp",
+      "/tour-images/tour-084.webp"
+    ],
+    "description": "Enjoy the water and wildlife around Lake Naivasha with the Naivasha Boat Ride and Birdwatching. A local guide helps you spot birdlife and take in the lakeside scenery.",
+    "highlights": [
+      "Boat ride on Lake Naivasha",
+      "Look for hippos and waterbirds",
+      "Lakeside scenery and photo stops"
+    ],
+    "included": [
+      "Boat transfer",
+      "Local guide or boat crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 83,
+    "title": "Crescent Island Boat and Nature Walk",
+    "location": "Naivasha",
+    "price": 60,
+    "originalPrice": 71,
+    "rating": 4.6,
+    "reviews": 329,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-083.webp",
+    "images": [
+      "/tour-images/tour-083.webp",
+      "/tour-images/tour-084.webp",
+      "/tour-images/tour-085.webp"
+    ],
+    "description": "Enjoy the water and wildlife around Lake Naivasha with the Crescent Island Boat and Nature Walk. A local guide helps you spot birdlife and take in the lakeside scenery.",
+    "highlights": [
+      "Boat ride on Lake Naivasha",
+      "Look for hippos and waterbirds",
+      "Lakeside scenery and photo stops"
+    ],
+    "included": [
+      "Boat transfer",
+      "Local guide or boat crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 84,
+    "title": "Lake Naivasha Hippo View Cruise",
+    "location": "Naivasha",
+    "price": 72,
+    "originalPrice": 85,
+    "rating": 4.8,
+    "reviews": 366,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-084.webp",
+    "images": [
+      "/tour-images/tour-084.webp",
+      "/tour-images/tour-085.webp",
+      "/tour-images/tour-086.webp"
+    ],
+    "description": "Enjoy the water and wildlife around Lake Naivasha with the Lake Naivasha Hippo View Cruise. A local guide helps you spot birdlife and take in the lakeside scenery.",
+    "highlights": [
+      "Boat ride on Lake Naivasha",
+      "Look for hippos and waterbirds",
+      "Lakeside scenery and photo stops"
+    ],
+    "included": [
+      "Boat transfer",
+      "Local guide or boat crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 85,
+    "title": "Private Naivasha Boat Experience",
+    "location": "Naivasha",
+    "price": 85,
+    "originalPrice": 101,
+    "rating": 4.5,
+    "reviews": 403,
+    "duration": "Half Day",
+    "groupSize": "2-8 People",
+    "image": "/tour-images/tour-085.webp",
+    "images": [
+      "/tour-images/tour-085.webp",
+      "/tour-images/tour-086.webp",
+      "/tour-images/tour-087.webp"
+    ],
+    "description": "Enjoy the water and wildlife around Lake Naivasha with the Private Naivasha Boat Experience. A local guide helps you spot birdlife and take in the lakeside scenery.",
+    "highlights": [
+      "Boat ride on Lake Naivasha",
+      "Look for hippos and waterbirds",
+      "Lakeside scenery and photo stops"
+    ],
+    "included": [
+      "Boat transfer",
+      "Local guide or boat crew",
+      "Safety equipment",
+      "Drinking water"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": 86,
+    "title": "Lake Nakuru Flamingo and Rhino Safari",
+    "location": "Nakuru",
+    "price": 85,
+    "originalPrice": 101,
+    "rating": 4.7,
+    "reviews": 440,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-086.webp",
+    "images": [
+      "/tour-images/tour-086.webp",
+      "/tour-images/tour-087.webp",
+      "/tour-images/tour-088.webp"
+    ],
+    "description": "Discover Lake Nakuru National Park on the Lake Nakuru Flamingo and Rhino Safari. Explore lakeside viewpoints and woodland habitats with a guide; bird and wildlife numbers change seasonally.",
+    "highlights": [
+      "Explore lakeside viewpoints",
+      "Look for rhinos and giraffes",
+      "Birdwatching with a local guide"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 87,
+    "title": "Nakuru National Park Birding Day",
+    "location": "Nakuru",
+    "price": 95,
+    "originalPrice": 113,
+    "rating": 4.9,
+    "reviews": 477,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-087.webp",
+    "images": [
+      "/tour-images/tour-087.webp",
+      "/tour-images/tour-088.webp",
+      "/tour-images/tour-089.webp"
+    ],
+    "description": "Discover Lake Nakuru National Park on the Nakuru National Park Birding Day. Explore lakeside viewpoints and woodland habitats with a guide; bird and wildlife numbers change seasonally.",
+    "highlights": [
+      "Explore lakeside viewpoints",
+      "Look for rhinos and giraffes",
+      "Birdwatching with a local guide"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 88,
+    "title": "Lake Nakuru Wildlife and Viewpoints Tour",
+    "location": "Nakuru",
+    "price": 110,
+    "originalPrice": 130,
+    "rating": 4.6,
+    "reviews": 51,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-088.webp",
+    "images": [
+      "/tour-images/tour-088.webp",
+      "/tour-images/tour-089.webp",
+      "/tour-images/tour-090.webp"
+    ],
+    "description": "Discover Lake Nakuru National Park on the Lake Nakuru Wildlife and Viewpoints Tour. Explore lakeside viewpoints and woodland habitats with a guide; bird and wildlife numbers change seasonally.",
+    "highlights": [
+      "Explore lakeside viewpoints",
+      "Look for rhinos and giraffes",
+      "Birdwatching with a local guide"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 89,
+    "title": "Nakuru Rhino and Flamingo Drive",
+    "location": "Nakuru",
+    "price": 125,
+    "originalPrice": 148,
+    "rating": 4.8,
+    "reviews": 88,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-089.webp",
+    "images": [
+      "/tour-images/tour-089.webp",
+      "/tour-images/tour-090.webp",
+      "/tour-images/tour-081.webp"
+    ],
+    "description": "Discover Lake Nakuru National Park on the Nakuru Rhino and Flamingo Drive. Explore lakeside viewpoints and woodland habitats with a guide; bird and wildlife numbers change seasonally.",
+    "highlights": [
+      "Explore lakeside viewpoints",
+      "Look for rhinos and giraffes",
+      "Birdwatching with a local guide"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 90,
+    "title": "Private Lake Nakuru Safari",
+    "location": "Nakuru",
+    "price": 140,
+    "originalPrice": 166,
+    "rating": 4.5,
+    "reviews": 125,
+    "duration": "1 Day",
+    "groupSize": "4-6 People",
+    "image": "/tour-images/tour-090.webp",
+    "images": [
+      "/tour-images/tour-090.webp",
+      "/tour-images/tour-081.webp",
+      "/tour-images/tour-082.webp"
+    ],
+    "description": "Discover Lake Nakuru National Park on the Private Lake Nakuru Safari. Explore lakeside viewpoints and woodland habitats with a guide; bird and wildlife numbers change seasonally.",
+    "highlights": [
+      "Explore lakeside viewpoints",
+      "Look for rhinos and giraffes",
+      "Birdwatching with a local guide"
+    ],
+    "included": [
+      "Safari transport",
+      "Local guide",
+      "Bottled water",
+      "Pickup from the agreed location"
+    ],
+    "category": "Safari"
+  },
+  {
+    "id": 91,
+    "title": "Mount Kenya Day Hike - Naro Moru Route",
+    "location": "Mt Kenya",
+    "price": 50,
+    "originalPrice": 59,
+    "rating": 4.7,
+    "reviews": 162,
+    "duration": "1 Day",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-091.webp",
+    "images": [
+      "/tour-images/tour-091.webp",
+      "/tour-images/tour-092.webp",
+      "/tour-images/tour-079.webp"
+    ],
+    "description": "Explore the lower slopes and trails of Mount Kenya with the Mount Kenya Day Hike - Naro Moru Route. A local mountain guide sets a steady pace and shares insight into the landscape.",
+    "highlights": [
+      "Guided mountain trail",
+      "Forest and highland scenery",
+      "Flexible pace with rest stops"
+    ],
+    "included": [
+      "Mountain guide",
+      "Route briefing",
+      "Drinking water",
+      "Trail coordination"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 92,
+    "title": "Mount Kenya Forest and Viewpoint Hike",
+    "location": "Mt Kenya",
+    "price": 55,
+    "originalPrice": 65,
+    "rating": 4.9,
+    "reviews": 199,
+    "duration": "1 Day",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-092.webp",
+    "images": [
+      "/tour-images/tour-092.webp",
+      "/tour-images/tour-079.webp",
+      "/tour-images/tour-080.webp"
+    ],
+    "description": "Explore the lower slopes and trails of Mount Kenya with the Mount Kenya Forest and Viewpoint Hike. A local mountain guide sets a steady pace and shares insight into the landscape.",
+    "highlights": [
+      "Guided mountain trail",
+      "Forest and highland scenery",
+      "Flexible pace with rest stops"
+    ],
+    "included": [
+      "Mountain guide",
+      "Route briefing",
+      "Drinking water",
+      "Trail coordination"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 93,
+    "title": "Mount Kenya Sirimon Day Trek",
+    "location": "Mt Kenya",
+    "price": 60,
+    "originalPrice": 71,
+    "rating": 4.6,
+    "reviews": 236,
+    "duration": "1 Day",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-093.webp",
+    "images": [
+      "/tour-images/tour-093.webp",
+      "/tour-images/tour-079.webp",
+      "/tour-images/tour-080.webp"
+    ],
+    "description": "Explore the lower slopes and trails of Mount Kenya with the Mount Kenya Sirimon Day Trek. A local mountain guide sets a steady pace and shares insight into the landscape.",
+    "highlights": [
+      "Guided mountain trail",
+      "Forest and highland scenery",
+      "Flexible pace with rest stops"
+    ],
+    "included": [
+      "Mountain guide",
+      "Route briefing",
+      "Drinking water",
+      "Trail coordination"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 94,
+    "title": "Mount Kenya Moorland Day Hike",
+    "location": "Mt Kenya",
+    "price": 68,
+    "originalPrice": 81,
+    "rating": 4.8,
+    "reviews": 273,
+    "duration": "1 Day",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-094.webp",
+    "images": [
+      "/tour-images/tour-094.webp",
+      "/tour-images/tour-080.webp",
+      "/tour-images/tour-093.webp"
+    ],
+    "description": "Explore the lower slopes and trails of Mount Kenya with the Mount Kenya Moorland Day Hike. A local mountain guide sets a steady pace and shares insight into the landscape.",
+    "highlights": [
+      "Guided mountain trail",
+      "Forest and highland scenery",
+      "Flexible pace with rest stops"
+    ],
+    "included": [
+      "Mountain guide",
+      "Route briefing",
+      "Drinking water",
+      "Trail coordination"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 95,
+    "title": "Mount Kenya Guided Summit View Hike",
+    "location": "Mt Kenya",
+    "price": 75,
+    "originalPrice": 89,
+    "rating": 4.5,
+    "reviews": 310,
+    "duration": "1 Day",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-095.webp",
+    "images": [
+      "/tour-images/tour-095.webp",
+      "/tour-images/tour-093.webp",
+      "/tour-images/tour-094.webp"
+    ],
+    "description": "Explore the lower slopes and trails of Mount Kenya with the Mount Kenya Guided Summit View Hike. A local mountain guide sets a steady pace and shares insight into the landscape.",
+    "highlights": [
+      "Guided mountain trail",
+      "Forest and highland scenery",
+      "Flexible pace with rest stops"
+    ],
+    "included": [
+      "Mountain guide",
+      "Route briefing",
+      "Drinking water",
+      "Trail coordination"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 96,
+    "title": "3-Day Mount Kenya Climb - Sirimon Route",
+    "location": "Mt Kenya",
+    "price": 190,
+    "originalPrice": 225,
+    "rating": 4.7,
+    "reviews": 347,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-096.webp",
+    "images": [
+      "/tour-images/tour-096.webp",
+      "/tour-images/tour-094.webp",
+      "/tour-images/tour-095.webp"
+    ],
+    "description": "Join a guided three-day trek on Mount Kenya. 3-Day Mount Kenya Climb - Sirimon Route offers a progressive ascent through changing mountain habitats and overnight stops along the route.",
+    "highlights": [
+      "Three-day guided mountain itinerary",
+      "Acclimatization and steady ascent",
+      "Highland scenery and route briefings"
+    ],
+    "included": [
+      "Mountain guide",
+      "Porter or camp support as specified",
+      "Route coordination",
+      "Meals and overnight arrangements as listed"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 97,
+    "title": "3-Day Mount Kenya Trek - Chogoria Route",
+    "location": "Mt Kenya",
+    "price": 220,
+    "originalPrice": 260,
+    "rating": 4.9,
+    "reviews": 384,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-097.webp",
+    "images": [
+      "/tour-images/tour-097.webp",
+      "/tour-images/tour-095.webp",
+      "/tour-images/tour-096.webp"
+    ],
+    "description": "Join a guided three-day trek on Mount Kenya. 3-Day Mount Kenya Trek - Chogoria Route offers a progressive ascent through changing mountain habitats and overnight stops along the route.",
+    "highlights": [
+      "Three-day guided mountain itinerary",
+      "Acclimatization and steady ascent",
+      "Highland scenery and route briefings"
+    ],
+    "included": [
+      "Mountain guide",
+      "Porter or camp support as specified",
+      "Route coordination",
+      "Meals and overnight arrangements as listed"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 98,
+    "title": "3-Day Mount Kenya Point Lenana Climb",
+    "location": "Mt Kenya",
+    "price": 260,
+    "originalPrice": 307,
+    "rating": 4.6,
+    "reviews": 421,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-098.webp",
+    "images": [
+      "/tour-images/tour-098.webp",
+      "/tour-images/tour-096.webp",
+      "/tour-images/tour-097.webp"
+    ],
+    "description": "Join a guided three-day trek on Mount Kenya. 3-Day Mount Kenya Point Lenana Climb offers a progressive ascent through changing mountain habitats and overnight stops along the route.",
+    "highlights": [
+      "Three-day guided mountain itinerary",
+      "Acclimatization and steady ascent",
+      "Highland scenery and route briefings"
+    ],
+    "included": [
+      "Mountain guide",
+      "Porter or camp support as specified",
+      "Route coordination",
+      "Meals and overnight arrangements as listed"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 99,
+    "title": "3-Day Mount Kenya Guided Ascent",
+    "location": "Mt Kenya",
+    "price": 290,
+    "originalPrice": 343,
+    "rating": 4.8,
+    "reviews": 458,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-099.webp",
+    "images": [
+      "/tour-images/tour-099.webp",
+      "/tour-images/tour-097.webp",
+      "/tour-images/tour-098.webp"
+    ],
+    "description": "Join a guided three-day trek on Mount Kenya. 3-Day Mount Kenya Guided Ascent offers a progressive ascent through changing mountain habitats and overnight stops along the route.",
+    "highlights": [
+      "Three-day guided mountain itinerary",
+      "Acclimatization and steady ascent",
+      "Highland scenery and route briefings"
+    ],
+    "included": [
+      "Mountain guide",
+      "Porter or camp support as specified",
+      "Route coordination",
+      "Meals and overnight arrangements as listed"
+    ],
+    "category": "Hiking"
+  },
+  {
+    "id": 100,
+    "title": "3-Day Private Mount Kenya Climb",
+    "location": "Mt Kenya",
+    "price": 320,
+    "originalPrice": 378,
+    "rating": 4.5,
+    "reviews": 495,
+    "duration": "3 Days 2 Nights",
+    "groupSize": "4-8 People",
+    "image": "/tour-images/tour-100.webp",
+    "images": [
+      "/tour-images/tour-100.webp",
+      "/tour-images/tour-098.webp",
+      "/tour-images/tour-099.webp"
+    ],
+    "description": "Join a guided three-day trek on Mount Kenya. 3-Day Private Mount Kenya Climb offers a progressive ascent through changing mountain habitats and overnight stops along the route.",
+    "highlights": [
+      "Three-day guided mountain itinerary",
+      "Acclimatization and steady ascent",
+      "Highland scenery and route briefings"
+    ],
+    "included": [
+      "Mountain guide",
+      "Porter or camp support as specified",
+      "Route coordination",
+      "Meals and overnight arrangements as listed"
+    ],
+    "category": "Hiking"
+  }
+]

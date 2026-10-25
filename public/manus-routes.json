@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "SafariBookings | Discover Kenya" },
+    { "path": "/tours", "title": "Kenya Safari Tours | SafariBookings" },
+    { "path": "/tours/:id", "title": "Tour Details | SafariBookings" },
+    { "path": "/wallet", "title": "USD Wallet | SafariBookings" },
+    { "path": "/bookings", "title": "My Bookings | SafariBookings" },
+    { "path": "/login", "title": "Login | SafariBookings" }
+  ]
+}
